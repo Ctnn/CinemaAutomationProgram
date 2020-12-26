@@ -1,0 +1,24 @@
+﻿<Window x:Class="projee.uye_sifremiunuttum"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="uye_sifremiunuttum" Height="337" Width="670" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF202932">
+        <Label Content="Kullanıcı Adınız:" FontFamily="Sitka Small" Foreground="White" Height="28" Margin="49,37,487,0" Name="label2" VerticalAlignment="Top" />
+        <TextBox Background="Black" Foreground="White" Height="27" HorizontalAlignment="Right" Margin="0,39,337,0" Name="textBox1" VerticalAlignment="Top" Width="138" />
+        <Label Content="Gizli Sorunuz:" FontFamily="Sitka Small" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="59,83,0,0" Name="label1" VerticalAlignment="Top" Width="112" />
+        <TextBox Background="Black" Foreground="White" Height="27" HorizontalAlignment="Left" Margin="173,117,0,0" Name="textBox2" VerticalAlignment="Top" Width="138" />
+        <Label Content="Cevabınız:" FontFamily="Sitka Small" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="86,117,0,0" Name="label3" VerticalAlignment="Top" Width="112" />
+        <ComboBox Background="Black" FontFamily="Sitka Small" Height="27" HorizontalAlignment="Left" Margin="173,83,0,0" Name="comboBox1" SelectedIndex="0" VerticalAlignment="Top" Width="138" SelectionChanged="comboBox1_SelectionChanged">
+            <ComboBoxItem Content="Gizli Soru" Foreground="Black" />
+            <ComboBoxItem Content="İlk Evcil Hayvanınız" Foreground="Black" />
+            <ComboBoxItem Content="Annenizin kızlık soyadı" Foreground="Black" />
+            <ComboBoxItem Content="Hangi şehirde doğdunuz" Foreground="Black" />
+        </ComboBox>
+        <Button Background="Black" Content="Detay Doğrula" FontFamily="Sitka Small" Foreground="White" Margin="173,165,337,105" Name="button3" Click="button3_Click" />
+        <TextBox Background="Black" Foreground="White" Height="27" HorizontalAlignment="Left" Margin="445,39,0,0" Name="textBox3" VerticalAlignment="Top" Width="138" Visibility="Hidden" />
+        <Label Content="Yeni Şifreniz:" FontFamily="Sitka Small" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="346,39,0,0" Name="label4" VerticalAlignment="Top" Width="112" Visibility="Hidden" />
+        <TextBox Background="Black" Foreground="White" Height="27" HorizontalAlignment="Left" Margin="445,86,0,0" Name="textBox4" VerticalAlignment="Top" Width="138" Visibility="Hidden" />
+        <Label Content="Şifre Tekrarı:" FontFamily="Sitka Small" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="347,85,0,0" Name="label5" VerticalAlignment="Top" Width="112" Visibility="Hidden" />
+        <Button Background="Black" Content="Şifreyi Değiştir" FontFamily="Sitka Small" Foreground="White" Margin="445,136,65,0" Name="button1" Visibility="Hidden" Height="28" VerticalAlignment="Top" Click="button1_Click" />
+    </Grid>
+</Window>

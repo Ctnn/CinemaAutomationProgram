@@ -1,0 +1,20 @@
+﻿<Window x:Class="projee.yöneticigirisi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="yöneticigirisi" Height="337" Width="670" WindowStartupLocation="CenterScreen">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Black">
+        <Label Content="Kullanıcı Adı:" FontFamily="Sitka Small" Height="25" HorizontalAlignment="Left" Margin="195,86,0,0" Name="label1" VerticalAlignment="Top" Width="92" />
+        <Label Content="Şifre:" FontFamily="Sitka Small" Height="25" HorizontalAlignment="Left" Margin="240,117,0,0" Name="label2" VerticalAlignment="Top" Width="92" />
+        <TextBox Height="19" HorizontalAlignment="Left" Margin="288,90,0,0" Name="textBox1" VerticalAlignment="Top" Width="122" />
+        <TextBox Height="19" HorizontalAlignment="Left" Margin="288,123,0,0" Name="textBox2" VerticalAlignment="Top" Width="122" />
+        <Button Click="button1_Click" FontFamily="Sitka Small" Height="30" HorizontalAlignment="Left" Margin="294,148,0,0" Name="button1" VerticalAlignment="Top" Width="92" BorderBrush="{x:Null}" Background="Black" Opacity="0"></Button>
+        <Button Click="button3_Click" FontFamily="Sitka Small" Height="22" HorizontalAlignment="Left" Margin="416,86,0,0" Name="button3" Opacity="0" VerticalAlignment="Top" Width="36" Panel.ZIndex="1">
+            <Button.Background>
+                <ImageBrush ImageSource="/projee;component/Images/small-house-hi.png" />
+            </Button.Background>
+        </Button>
+        <Image Height="298" HorizontalAlignment="Left" Margin="-2,0,0,0" Name="image1" Source="/projee;component/Images/5c305b6fae298b5d274fe9d8.jpg" Stretch="Fill" VerticalAlignment="Top" Width="660" Panel.ZIndex="-1" />
+        <Image Height="22" HorizontalAlignment="Left" Margin="417,0,0,190" Name="image2" Source="/projee;component/Images/small-house-hi.png" Stretch="Fill" VerticalAlignment="Bottom" Width="35" />
+        <Image Height="28" Margin="294,150,262,0" Name="image3" Stretch="Fill" VerticalAlignment="Top" Source="/projee;component/Images/giriş-png.png" Panel.ZIndex="-1" />
+    </Grid>
+</Window>

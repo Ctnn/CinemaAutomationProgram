@@ -1,0 +1,88 @@
+﻿<Window x:Class="projee.biletal_devamı"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="biletal_devamı" Height="1024" Width="1280" Background="#FF202932" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF202932" Height="1024" Width="1280">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="428*" />
+            <RowDefinition Height="596*" />
+        </Grid.RowDefinitions>
+        <Menu Height="16" HorizontalAlignment="Left" Margin="96,166,0,0" Name="menu1" VerticalAlignment="Top" Width="1068" Grid.Row="1" />
+        <Label Content="Perde" FontFamily="Stencil" FontSize="15" Foreground="White" Height="57" Margin="551,125,567,0" Name="label2" Opacity="2" VerticalAlignment="Top" Grid.Row="1" />
+        <Button Background="Black" Content="Bilet Al" FontFamily="Sitka Small" FontSize="18" Foreground="White" Height="45" Margin="484,440,629,0" Name="button1" VerticalAlignment="Top" Click="button1_Click" Grid.Row="1" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="277,402,0,0" Name="button2" VerticalAlignment="Top" Width="60" Content="e1" FontSize="20" Background="Chartreuse" Click="button2_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="365,404,0,0" Name="button3" VerticalAlignment="Top" Width="60" FontSize="20" Content="e2" Background="Chartreuse" Click="button3_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="450,402,0,0" Name="button4" VerticalAlignment="Top" Width="60" FontSize="20" Content="e3" Background="Chartreuse" Click="button4_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="542,402,0,0" Name="button5" VerticalAlignment="Top" Width="60" FontSize="20" Content="e4" Background="Chartreuse" Click="button5_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="635,404,0,0" Name="button6" VerticalAlignment="Top" Width="60" FontSize="20" Content="e5" Background="Chartreuse" Click="button6_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="723,402,0,0" Name="button7" VerticalAlignment="Top" Width="60" FontSize="20" Content="e6" Background="Chartreuse" Click="button7_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="809,404,0,0" Name="button8" VerticalAlignment="Top" Width="60" FontSize="20" Content="e7" Background="Chartreuse" Click="button8_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="896,402,0,0" Name="button9" VerticalAlignment="Top" Width="60" FontSize="20" Content="e8" Background="Chartreuse" Click="button9_Click" Grid.RowSpan="2" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="277,306,0,0" Name="button10" VerticalAlignment="Top" Width="60" Content="d1" FontSize="20" Background="Chartreuse" Click="button10_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="365,306,0,0" Name="button11" VerticalAlignment="Top" Width="60" FontSize="20" Content="d2" Background="Chartreuse" Click="button11_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="450,306,0,0" Name="button12" VerticalAlignment="Top" Width="60" FontSize="20" Content="d3" Background="Chartreuse" Click="button12_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="542,306,0,0" Name="button13" VerticalAlignment="Top" Width="60" FontSize="20" Content="d4" Background="Chartreuse" Click="button13_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="635,306,0,0" Name="button14" VerticalAlignment="Top" Width="60" FontSize="20" Content="d5" Background="Chartreuse" Click="button14_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="723,306,0,0" Name="button15" VerticalAlignment="Top" Width="60" FontSize="20" Content="d6" Background="Chartreuse" Click="button15_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="809,306,0,0" Name="button16" VerticalAlignment="Top" Width="60" FontSize="20" Content="d7" Background="Chartreuse" Click="button16_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="896,306,0,0" Name="button17" VerticalAlignment="Top" Width="60" FontSize="20" Content="d8" Background="Chartreuse" Click="button17_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="193,226,0,0" Name="button18" VerticalAlignment="Top" Width="60" FontSize="20" Content="c1" Background="Chartreuse" Click="button18_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="277,226,0,0" Name="button19" VerticalAlignment="Top" Width="60" FontSize="20" Content="c2" Background="Chartreuse" Click="button19_Click" />
+        <Button Height="60" Margin="365,226,855,0" Name="button20" VerticalAlignment="Top" FontSize="20" Content="c3" Background="Chartreuse" Width="60" Click="button20_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="450,226,0,0" Name="button21" VerticalAlignment="Top" Width="60" FontSize="20" Content="c4" Background="Chartreuse" Click="button21_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="542,226,0,0" Name="button22" VerticalAlignment="Top" Width="60" FontSize="20" Content="c5" Background="Chartreuse" Click="button22_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="635,226,0,0" Name="button23" VerticalAlignment="Top" Width="60" FontSize="20" Content="c6" Background="Chartreuse" Click="button23_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="723,226,0,0" Name="button24" VerticalAlignment="Top" Width="60" FontSize="20" Content="c7" Background="Chartreuse" Click="button24_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="809,226,0,0" Name="button25" VerticalAlignment="Top" Width="60" FontSize="20" Content="c8" Background="Chartreuse" Click="button25_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="896,226,0,0" Name="button26" VerticalAlignment="Top" Width="60" FontSize="20" Content="c9" Background="Chartreuse" Click="button26_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="977,226,0,0" Name="button27" VerticalAlignment="Top" Width="60" FontSize="20" Content="c10" Background="Chartreuse" Click="button27_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="114,138,0,0" Name="button28" VerticalAlignment="Top" Width="60" FontSize="20" Content="b1" Background="Chartreuse" Click="button28_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="193,138,0,0" Name="button29" VerticalAlignment="Top" Width="60" FontSize="20" Content="b2" Background="Chartreuse" Click="button29_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="277,138,0,0" Name="button30" VerticalAlignment="Top" Width="60" FontSize="20" Content="b3" Background="Chartreuse" Click="button30_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="365,138,0,0" Name="button31" VerticalAlignment="Top" Width="60" FontSize="20" Content="b4" Background="Chartreuse" Click="button31_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="450,138,0,0" Name="button32" VerticalAlignment="Top" Width="60" FontSize="20" Content="b5" Background="Chartreuse" Click="button32_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="542,138,0,0" Name="button33" VerticalAlignment="Top" Width="60" FontSize="20" Content="b6" Background="Chartreuse" Click="button33_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="635,138,0,0" Name="button34" VerticalAlignment="Top" Width="60" FontSize="20" Content="b7" Background="Chartreuse" Click="button34_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="723,138,0,0" Name="button35" VerticalAlignment="Top" Width="60" FontSize="20" Content="b8" Background="Chartreuse" Click="button35_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="809,138,0,0" Name="button36" VerticalAlignment="Top" Width="60" FontSize="20" Content="b9" Background="Chartreuse" Click="button36_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="896,138,0,0" Name="button37" VerticalAlignment="Top" Width="60" FontSize="20" Content="b10" Background="Chartreuse" Click="button37_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="977,138,0,0" Name="button38" VerticalAlignment="Top" Width="60" FontSize="20" Content="b11" Background="Chartreuse" Click="button38_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="1062,138,0,0" Name="button39" VerticalAlignment="Top" Width="60" FontSize="20" Content="b12" Background="Chartreuse" Click="button39_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="114,46,0,0" Name="button40" VerticalAlignment="Top" Width="60" FontSize="20" Content="a1" Background="Chartreuse" Click="button40_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="193,46,0,0" Name="button41" VerticalAlignment="Top" Width="60" FontSize="20" Content="a2" Background="Chartreuse" Click="button41_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="277,46,0,0" Name="button42" VerticalAlignment="Top" Width="60" FontSize="20" Content="a3" Background="Chartreuse" Click="button42_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="365,46,0,0" Name="button43" VerticalAlignment="Top" Width="60" FontSize="20" Content="a4" Background="Chartreuse" Click="button43_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="450,46,0,0" Name="button44" VerticalAlignment="Top" Width="60" FontSize="20" Content="a5" Background="Chartreuse" Click="button44_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="542,46,0,0" Name="button45" VerticalAlignment="Top" Width="60" FontSize="20" Content="a6" Background="Chartreuse" Click="button45_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="635,46,0,0" Name="button46" VerticalAlignment="Top" Width="60" FontSize="20" Content="a7" Background="Chartreuse" Click="button46_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="723,46,0,0" Name="button47" VerticalAlignment="Top" Width="60" FontSize="20" Content="a8" Background="Chartreuse" Click="button47_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="809,46,0,0" Name="button48" VerticalAlignment="Top" Width="60" FontSize="20" Content="a9" Background="Chartreuse" Click="button48_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="896,46,0,0" Name="button49" VerticalAlignment="Top" Width="60" FontSize="20" Content="a10" Background="Chartreuse" Click="button49_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="977,46,0,0" Name="button50" VerticalAlignment="Top" Width="60" FontSize="20" Content="a11" Background="Chartreuse" Click="button50_Click" />
+        <Button Height="60" HorizontalAlignment="Left" Margin="1062,46,0,0" Name="button51" VerticalAlignment="Top" Width="60" FontSize="20" Content="a12" Background="Chartreuse" Click="button51_Click" />
+        <Label Content="Film Adı" Height="39" HorizontalAlignment="Left" Margin="28,289,0,0" Name="label1" VerticalAlignment="Top" Width="83" Foreground="White" FontSize="16" Grid.Row="1" />
+        <Label FontSize="16" Foreground="White" Height="39" Margin="117,289,1011,0" Name="label3" VerticalAlignment="Top" Grid.Row="1" />
+        <Label Content="Salon" FontSize="16" Foreground="White" Height="39" HorizontalAlignment="Left" Margin="41,366,0,0" Name="label4" VerticalAlignment="Top" Width="83" Grid.Row="1" />
+        <Label FontSize="16" Foreground="White" Height="40" Margin="117,366,1011,0" Name="label5" VerticalAlignment="Top" Grid.Row="1" />
+        <Label Content="Seans" FontSize="16" Foreground="White" Height="39" HorizontalAlignment="Left" Margin="28,446,0,0" Name="label6" VerticalAlignment="Top" Width="83" Grid.Row="1" />
+        <Label FontSize="16" Foreground="White" Height="40" Margin="117,445,1011,0" Name="label7" VerticalAlignment="Top" Grid.Row="1" />
+        <GroupBox Header="Bilgilendirme" Height="277" HorizontalAlignment="Left" Margin="12,0,0,85" Name="groupBox1" VerticalAlignment="Bottom" Width="282" FontSize="20" Foreground="White" Grid.Row="1"></GroupBox>
+        <Label Content="A :" FontSize="24" Foreground="White" Height="53" HorizontalAlignment="Left" Margin="28,53,0,0" Name="label9" VerticalAlignment="Top" Width="54" />
+        <Label Content="B :" FontSize="24" Foreground="White" Height="53" HorizontalAlignment="Left" Margin="28,145,0,0" Name="label10" VerticalAlignment="Top" Width="54" />
+        <Label Content="C :" FontSize="24" Foreground="White" Height="53" HorizontalAlignment="Left" Margin="28,233,0,0" Name="label11" VerticalAlignment="Top" Width="54" />
+        <Label Content="D :" FontSize="24" Foreground="White" Height="53" HorizontalAlignment="Left" Margin="28,313,0,0" Name="label12" VerticalAlignment="Top" Width="54" />
+        <Label Content="E :" FontSize="24" Foreground="White" Height="53" HorizontalAlignment="Left" Margin="28,409,0,0" Name="label13" VerticalAlignment="Top" Width="54" Grid.RowSpan="2" />
+        <GroupBox FontSize="20" Foreground="White" Header="Rezervasyon" Height="277" HorizontalAlignment="Left" Margin="361,0,0,85" Name="groupBox2" VerticalAlignment="Bottom" Width="466" Grid.Row="1"></GroupBox>
+        <TextBox Background="Black" Foreground="White" Height="34" HorizontalAlignment="Left" Margin="528,357,0,0" Name="textBox1" VerticalAlignment="Top" Width="167" IsEnabled="False" Grid.Row="1" />
+        <Label Height="43" HorizontalAlignment="Left" Margin="926,282,0,0" Name="label15" VerticalAlignment="Top" Width="48" Background="Chartreuse" Grid.Row="1" />
+        <Label Background="Red" Height="43" HorizontalAlignment="Left" Margin="926,362,0,0" Name="label16" VerticalAlignment="Top" Width="48" Grid.Row="1" />
+        <Label Content=": Boş" FontSize="24" Foreground="White" Height="46" HorizontalAlignment="Left" Margin="1003,282,0,0" Name="label18" VerticalAlignment="Top" Width="187" FontWeight="Bold" Grid.Row="1" />
+        <Label Content=": Dolu" FontSize="24" FontWeight="Bold" Foreground="White" Height="46" HorizontalAlignment="Left" Margin="1003,357,0,0" Name="label17" VerticalAlignment="Top" Width="187" Grid.Row="1" />
+        <Button Background="Black" Content="Geri Git" FontFamily="Sitka Small" FontSize="18" Foreground="White" Height="45" Margin="0,445,188,0" Name="button52" VerticalAlignment="Top" Click="button52_Click" Grid.Row="1" HorizontalAlignment="Right" Width="167" />
+        <Label Content="Kullanıcı Adı:" FontSize="16" Foreground="White" Height="39" Name="label14" Width="129" Margin="399,357,752,200" Grid.Row="1" />
+        <RadioButton Content="Öğrenci 10 TL" Height="23" Name="radioButton1" Width="181" FontFamily="Stencil" FontSize="15" Foreground="White" Margin="579,411,520,162" Checked="radioButton1_Checked" Grid.Row="1" />
+        <RadioButton Content="Tam 15 TL" FontFamily="Stencil" FontSize="15" Foreground="White" Height="23" Margin="450,411,649,162" Name="radioButton2" Width="181" Checked="radioButton2_Checked" Grid.Row="1" />
+        <TextBox Background="Black" Foreground="White" Height="34" HorizontalAlignment="Left" IsEnabled="False" Margin="528,291,0,0" Name="textBox7" VerticalAlignment="Top" Width="167" Grid.Row="1" />
+        <Label Content="Koltuk:" FontSize="16" Foreground="White" Height="39" Margin="428,291,723,266" Name="label8" Width="129" Grid.Row="1" />
+    </Grid>
+</Window>

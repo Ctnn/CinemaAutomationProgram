@@ -1,0 +1,26 @@
+﻿<Window x:Class="projee.yonetici_islem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="yonetici_islem" Height="430" Width="808" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Background="#FF202932">
+        <GroupBox Foreground="White" Header="Yöneticiler" Height="213" HorizontalAlignment="Left" Margin="25,18,0,0" Name="groupBox4" VerticalAlignment="Top" Width="545">
+            <Grid Height="181" Width="528">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="288*" />
+                    <ColumnDefinition Width="380*" />
+                </Grid.ColumnDefinitions>
+                <ListBox Grid.ColumnSpan="2" Height="176" HorizontalAlignment="Left" Margin="6,10,0,0" Name="listBox1" SelectionChanged="listBox1_SelectionChanged_2" VerticalAlignment="Top" Width="528" />
+            </Grid>
+        </GroupBox>
+        <Button Click="button1_Click_1" Height="58" HorizontalAlignment="Left" Margin="706,10,0,0" Name="button1" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="68" />
+        <Image Height="58" HorizontalAlignment="Right" Margin="0,10,14,0" Name="image3" Opacity="1" Source="/projee;component/Images/Thesquid.ink-Free-Flat-Sample-Space-rocket.ico" Stretch="Fill" VerticalAlignment="Top" Width="66" />
+        <Label Content="Kullanıcı Adı:" FontFamily="Sitka Small" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="40,259,0,0" Name="label10" VerticalAlignment="Top" Width="105" />
+        <Button Background="Black" Content="Ekle" FontFamily="Sitka Small" Foreground="White" Height="22" HorizontalAlignment="Left" Margin="316,0,0,81" Name="button2" VerticalAlignment="Bottom" Width="97" Click="button2_Click" />
+        <Label Content="Şifresi:" FontFamily="Sitka Small" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="78,307,0,0" Name="label1" VerticalAlignment="Top" Width="57" />
+        <Label Content="İd İle Yok et:" FontFamily="Sitka Small" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="498,259,0,0" Name="label2" VerticalAlignment="Top" Width="105" />
+        <Button Background="Black" Content="Kayıdı Sil" FontFamily="Sitka Small" Foreground="White" Height="22" HorizontalAlignment="Left" Margin="610,0,0,56" Name="button3" VerticalAlignment="Bottom" Width="97" Click="button3_Click" />
+        <TextBox Background="Black" Foreground="White" Height="27" HorizontalAlignment="Left" Margin="141,307,0,0" Name="textBox2" VerticalAlignment="Top" Width="138" />
+        <TextBox Background="Black" Foreground="White" Height="27" HorizontalAlignment="Left" Margin="141,259,0,0" Name="textBox1" VerticalAlignment="Top" Width="138" />
+        <TextBox Background="Black" Foreground="White" Height="27" HorizontalAlignment="Left" Margin="591,259,0,0" Name="textBox3" VerticalAlignment="Top" Width="138" />
+    </Grid>
+</Window>

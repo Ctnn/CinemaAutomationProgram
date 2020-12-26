@@ -1,0 +1,56 @@
+﻿<Window x:Class="projee.yakında_film1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="yakında_film1" Height="536" Width="1134" Background="Black" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF202932" Height="492" Width="1109">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="21*" />
+            <ColumnDefinition Width="140*" />
+            <ColumnDefinition Width="949*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="251*" />
+            <RowDefinition Height="181*" />
+        </Grid.RowDefinitions>
+        <Menu Background="#FF383838" Grid.Column="1" Grid.ColumnSpan="2" Height="6" HorizontalAlignment="Left" Margin="62,0,0,0" Name="menu1" VerticalAlignment="Top" Width="677" />
+        <Menu Background="Black" Grid.ColumnSpan="2" Margin="0,22,47,260" Name="menu3" />
+        <Image Grid.Column="2" Height="137" HorizontalAlignment="Left" Margin="19,12,0,0" Name="image1" Source="/projee;component/Images/filme-afis-cover-ekleme-gomme-kapak.png" Stretch="Fill" VerticalAlignment="Top" Width="135" />
+        <MediaElement Grid.Column="2" Grid.RowSpan="2" Height="244" HorizontalAlignment="Left" LoadedBehavior="Manual" Margin="9,166,0,0" MediaOpened="mediaElement1_MediaOpened" Name="mediaElement1" Stretch="Fill" VerticalAlignment="Top" Width="868" />
+        <Slider Grid.Column="2" Grid.Row="1" Height="31" HorizontalAlignment="Left" Margin="764,150,0,0" Maximum="1" Name="slider2" Value="1" ValueChanged="slider2_ValueChanged" VerticalAlignment="Top" Width="113" />
+        <Label Content="Ses:" Foreground="White" Grid.Column="2" Grid.Row="1" Height="32" HorizontalAlignment="Left" Margin="721,147,0,0" Name="label3" VerticalAlignment="Top" Width="51" />
+        <Button Click="button8_Click_1" Grid.Column="2" Grid.Row="1" Height="34" HorizontalAlignment="Left" Margin="422,150,0,0" Name="button8" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="46">
+            <Button.Background>
+                <ImageBrush ImageSource="/projee;component/bin/Debug/Resimler/play-2.png" />
+            </Button.Background>
+        </Button>
+        <Button Click="button9_Click" Grid.Column="2" Grid.Row="1" Height="34" HorizontalAlignment="Left" Margin="365,145,0,0" Name="button9" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="45">
+            <Button.Background>
+                <ImageBrush ImageSource="/projee;component/bin/Debug/Resimler/stop.png" />
+            </Button.Background>
+        </Button>
+        <Button Click="button10_Click" Grid.Column="2" Grid.Row="1" Height="34" HorizontalAlignment="Left" Margin="474,145,0,0" Name="button10" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="45">
+            <Button.Background>
+                <ImageBrush ImageSource="/projee;component/bin/Debug/Resimler/pause-2.png" />
+            </Button.Background>
+        </Button>
+        <Image Grid.Column="2" Grid.Row="1" Height="34" HorizontalAlignment="Right" Margin="0,0,538,25" Name="image3" Source="/projee;component/bin/Debug/Resimler/stop.png" Stretch="Fill" VerticalAlignment="Bottom" Width="46" />
+        <Image Grid.Column="2" Grid.Row="1" Height="34" HorizontalAlignment="Left" Margin="422,144,0,0" Name="image4" Source="/projee;component/bin/Debug/Resimler/play-2.png" Stretch="Fill" VerticalAlignment="Top" Width="46" />
+        <Image Grid.Column="2" Grid.Row="1" Height="34" HorizontalAlignment="Left" Margin="474,144,0,0" Name="image5" Source="/projee;component/bin/Debug/Resimler/pause-2.png" Stretch="Fill" VerticalAlignment="Top" Width="46" />
+        <TextBox Background="Black" Foreground="White" Grid.Column="2" Height="100" HorizontalAlignment="Left" Margin="160,49,0,0" Name="textBox1" TextChanged="textBox1_TextChanged" VerticalAlignment="Top" Width="466" />
+        <Label Content="Film İsmi" FontFamily="Stencil" Foreground="White" Grid.Column="2" Height="28" Margin="298,15,510,0" Name="label4" Opacity="2" VerticalAlignment="Top" />
+        <Button Background="Black" Click="button1_Click_1" Content="Üye Girişi" FontFamily="Sitka Small" Foreground="White" Grid.ColumnSpan="2" Grid.Row="1" Height="22" Margin="8,142,56,42" Name="button1" Width="97" />
+        <Button Background="Black" Click="button2_Click_2" Content="Yönetici Girişi" FontFamily="Sitka Small" Foreground="White" Grid.ColumnSpan="2" Grid.Row="1" Height="22" Margin="8,172,56,12" Name="button2" Width="97" />
+        <Menu Background="#FF383838" Grid.ColumnSpan="2" Grid.RowSpan="2" Height="495" HorizontalAlignment="Left" Margin="0,-3,0,0" Name="menu2" Panel.ZIndex="-1" VerticalAlignment="Top" Width="114" />
+        <Label Content="CtNN Sinemaları" FontFamily="Monotype Corsiva" FontSize="16" Foreground="White" Grid.ColumnSpan="2" Height="29" HorizontalAlignment="Left" Margin="0,-1,0,0" Name="label1" VerticalAlignment="Top" Width="138" />
+        <Button Background="Black" Click="button3_Click_1" Content="AnaSayfa" FontFamily="Sitka Small" Foreground="White" Grid.ColumnSpan="2" Height="22" Margin="8,36,56,228" Name="button3" Width="97" />
+        <Button Background="Black" Click="button4_Click_1" Content="Vizyondakiler" FontFamily="Sitka Small" Foreground="White" Grid.ColumnSpan="2" Height="22" Margin="8,64,56,200" Name="button4" Width="97" />
+        <Button Background="Black" Click="button5_Click_1" Content="Yakında" FontFamily="Sitka Small" Foreground="White" Grid.ColumnSpan="2" Height="22" Margin="8,92,56,172" Name="button5" Width="97" />
+        <Button Background="Black" Click="button6_Click_3" Content="Salonlar" FontFamily="Sitka Small" Foreground="White" Grid.ColumnSpan="2" Height="22" Margin="8,120,56,144" Name="button6" Width="97" />
+        <Button Background="Black" Click="button7_Click_3" Content="Üye Ol" FontFamily="Sitka Small" Foreground="White" Grid.ColumnSpan="2" Grid.Row="1" Height="22" Margin="8,114,56,70" Name="button7" Width="97" />
+        <Label Content="Yönetmen Adı:" FontFamily="Stencil" Foreground="White" Grid.Column="2" Height="36" Margin="639,50,199,0" Name="label2" Opacity="2" VerticalAlignment="Top" />
+        <TextBox Background="Black" Foreground="White" Grid.Column="2" Height="36" HorizontalAlignment="Left" Margin="738,50,0,0" Name="textBox2" TextChanged="textBox2_TextChanged" VerticalAlignment="Top" Width="177" />
+        <TextBox Background="Black" Foreground="White" Grid.Column="2" Height="36" HorizontalAlignment="Left" Margin="738,106,0,0" Name="textBox3" TextChanged="textBox3_TextChanged" VerticalAlignment="Top" Width="177" />
+        <Label Content="Film Türü:" FontFamily="Stencil" Foreground="White" Grid.Column="2" Height="30" HorizontalAlignment="Left" Margin="650,104,0,0" Name="label5" VerticalAlignment="Top" Width="99" />
+        <Slider Grid.Column="2" Grid.Row="1" Height="22" HorizontalAlignment="Left" Margin="19,130,0,0" Name="slider1" ValueChanged="slider1_ValueChanged_1" VerticalAlignment="Top" Width="868" />
+    </Grid>
+</Window>

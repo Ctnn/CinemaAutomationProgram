@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2FF691AE-EA13-42B7-8317-AA55C406AEEC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projee</RootNamespace>
+    <AssemblyName>projee</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="biletal.xaml.cs">
+      <DependentUpon>biletal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="biletal_devamı.xaml.cs">
+      <DependentUpon>biletal_devamı.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="biletislem.xaml.cs">
+      <DependentUpon>biletislem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="biletlerim.xaml.cs">
+      <DependentUpon>biletlerim.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="film1.xaml.cs">
+      <DependentUpon>film1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="filmbilgi.xaml.cs">
+      <DependentUpon>filmbilgi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fragmanislemleri.xaml.cs">
+      <DependentUpon>fragmanislemleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcıanasayfa.xaml.cs">
+      <DependentUpon>kullanıcıanasayfa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcıfilmbilgisi.xaml.cs">
+      <DependentUpon>kullanıcıfilmbilgisi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcı_duzenle.xaml.cs">
+      <DependentUpon>kullanıcı_duzenle.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcı_islemleri.xaml.cs">
+      <DependentUpon>kullanıcı_islemleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcı_vizyondakiler.xaml.cs">
+      <DependentUpon>kullanıcı_vizyondakiler.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcı_yakında.xaml.cs">
+      <DependentUpon>kullanıcı_yakında.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcı_yakında_film_goster.xaml.cs">
+      <DependentUpon>kullanıcı_yakında_film_goster.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Salonlar.xaml.cs">
+      <DependentUpon>Salonlar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="seans_duzenle.xaml.cs">
+      <DependentUpon>seans_duzenle.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="seans_islemleri.xaml.cs">
+      <DependentUpon>seans_islemleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="uyegirisi.xaml.cs">
+      <DependentUpon>uyegirisi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="uyeol.xaml.cs">
+      <DependentUpon>uyeol.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="uye_salonlar.xaml.cs">
+      <DependentUpon>uye_salonlar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="uye_sifremiunuttum.xaml.cs">
+      <DependentUpon>uye_sifremiunuttum.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vizyondakiler.xaml.cs">
+      <DependentUpon>vizyondakiler.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Yakında.xaml.cs">
+      <DependentUpon>Yakında.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yakında_film1.xaml.cs">
+      <DependentUpon>yakında_film1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yonetici_islem.xaml.cs">
+      <DependentUpon>yonetici_islem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yöneticifilmislem.xaml.cs">
+      <DependentUpon>yöneticifilmislem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yöneticigirisi.xaml.cs">
+      <DependentUpon>yöneticigirisi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yönetici_film_düzenle.xaml.cs">
+      <DependentUpon>yönetici_film_düzenle.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yönetici_paneli.xaml.cs">
+      <DependentUpon>yönetici_paneli.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="yönetici_yakındafilm_düzenle.xaml.cs">
+      <DependentUpon>yönetici_yakındafilm_düzenle.xaml</DependentUpon>
+    </Compile>
+    <Page Include="biletal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="biletal_devamı.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="biletislem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="biletlerim.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="film1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="filmbilgi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fragmanislemleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="kullanıcıanasayfa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="kullanıcıfilmbilgisi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="kullanıcı_duzenle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="kullanıcı_islemleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="kullanıcı_vizyondakiler.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="kullanıcı_yakında.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="kullanıcı_yakında_film_goster.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Salonlar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="seans_duzenle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="seans_islemleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="uyegirisi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="uyeol.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="uye_salonlar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="uye_sifremiunuttum.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vizyondakiler.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Yakında.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="yakında_film1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="yonetici_islem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="yöneticifilmislem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="yöneticigirisi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="yönetici_film_düzenle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="yönetici_paneli.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="yönetici_yakındafilm_düzenle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\5c305b6fae298b5d274fe9d8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\small-house-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\sinema-salonu-klima-sistemleri.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI%40._V1_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\lego-filmi-2-fragmani-yayinlandi-sdn-02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM%40._V1_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\K_yamet_TR_Afis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\HO00003513_636851548219842164_olum-gunun-kutlu-olsun-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\HO00003521_636852363506697171_huddam-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Guzel_Oglum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\HO00003550_636870589148655320_istila-altinda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\HO00003552_636875693904035428_mucizeler-parki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\HO00003573_636881801515612453_shazam-6-guc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\avengers_endgame_ver2_xlg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\cok-yakinda-yeni-yeri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\qhq2tx0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\LtQGMTQ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\kayitol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\kayit-ol-butonu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Screenshot_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Screenshot_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Screenshot_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Screenshot_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\giriş-png-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\giriş-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Designbolts-Free-Multimedia-Film.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Household-Living-Room-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Hopstarter-Sleek-Xp-Basic-Administrator.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\Resimler\eject-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\Resimler\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\Resimler\play-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\Resimler\pause-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\video-player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Yohproject-Crayon-Cute-Movies.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Aha-Soft-Free-Large-Boss-Admin.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Paomedia-Small-N-Flat-Clock.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Thesquid.ink-Free-Flat-Sample-Space-rocket.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1_Primary_logo_on_transparent_405x63.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1_Primary_logo_on_transparent_243x69.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\filme-afis-cover-ekleme-gomme-kapak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1_Primary_logo_on_transparent_322x65.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\Resimler\580b57fcd9996e24bc43c254.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\Resimler\fauteuil-anim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\arrow-back-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icons8-new-ticket-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icons8-new-ticket-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icons8-new-ticket-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\c19abbb3cb.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

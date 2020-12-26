@@ -1,0 +1,30 @@
+﻿<Window x:Class="projee.Salonlar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Salonlar" Height="536" Width="1134" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Height="495" Width="1137" Background="#FF202932">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="108*" />
+            <ColumnDefinition Width="638*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="251*" />
+            <RowDefinition Height="181*" />
+        </Grid.RowDefinitions>
+        <Menu Background="#FF383838" Grid.ColumnSpan="2" Height="7" HorizontalAlignment="Left" Margin="83,0,0,0" Name="menu1" VerticalAlignment="Top" Width="1031" />
+        <Button Background="Black" Click="button1_Click" Content="Üye Girişi" FontFamily="Sitka Small" Foreground="White" Grid.Row="1" Height="22" Margin="12,147,55,39" Name="button1" Width="97" />
+        <Button Background="Black" Click="button2_Click" Content="Yönetici Girişi" FontFamily="Sitka Small" Foreground="White" Grid.Row="1" Height="22" Margin="12,174,55,12" Name="button2" Width="97" />
+        <Menu Background="#FF383838" Grid.RowSpan="2" Height="495" HorizontalAlignment="Left" Name="menu2" Panel.ZIndex="-1" VerticalAlignment="Top" Width="114" />
+        <Label Content="CtNN Sinemaları" FontFamily="Monotype Corsiva" FontSize="16" Foreground="White" Height="29" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" Width="149" />
+        <Button Background="Black" Click="button3_Click" Content="AnaSayfa" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,39,59,227" Name="button3" Width="97" />
+        <Button Background="Black" Click="button4_Click" Content="Vizyondakiler" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,67,59,199" Name="button4" Width="97" />
+        <Button Background="Black" Click="button5_Click" Content="Yakında" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,95,59,171" Name="button5" Width="97" />
+        <Button Background="Black" Click="button6_Click" Content="Salonlar" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,123,59,143" Name="button6" Width="97" />
+        <Button Background="Black" Click="button8_Click" Content="Üye Ol" FontFamily="Sitka Small" Foreground="White" Grid.Row="1" Height="22" Margin="12,120,55,66" Name="button8" Width="97" />
+        <Menu Background="#FF202932" HorizontalAlignment="Right" Margin="0,23,44,262" Name="menu4" Width="121" />
+        <Image Grid.Column="1" Height="196" HorizontalAlignment="Left" Margin="0,39,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="345" Source="/projee;component/Images/Screenshot_1.png" />
+        <Image Height="196" HorizontalAlignment="Left" Margin="505,39,0,0" Name="image2" Source="/projee;component/Images/Screenshot_2.png" Stretch="Fill" VerticalAlignment="Top" Width="345" Grid.Column="1" />
+        <Image Height="196" HorizontalAlignment="Left" Margin="0,287,0,0" Name="image3" Source="/projee;component/Images/Screenshot_3.png" Stretch="Fill" VerticalAlignment="Top" Width="345" Grid.Column="1" Grid.RowSpan="2" />
+        <Image Height="196" HorizontalAlignment="Left" Margin="504,287,0,0" Name="image4" Source="/projee;component/Images/Screenshot_4.png" Stretch="Fill" VerticalAlignment="Top" Width="345" Grid.Column="1" Grid.RowSpan="2" />
+    </Grid>
+</Window>

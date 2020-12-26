@@ -1,0 +1,29 @@
+﻿<Window x:Class="projee.yönetici_paneli"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="yönetici_paneli" Height="603" Width="1057" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Background="#FF202932">
+        <Label Content="Film İşlemleri" Height="39" Name="label1" Width="130" Margin="80,0,825,297" FontFamily="Sitka Small" Foreground="White" FontSize="15" VerticalAlignment="Bottom" Panel.ZIndex="0" />
+        <Button Height="193" HorizontalAlignment="Left" Margin="60,74,0,0" Name="button1" VerticalAlignment="Top" Width="167" Background="Red" Panel.ZIndex="-1" />
+        <Image HorizontalAlignment="Left" Margin="80,91,0,358" Name="image1" Stretch="Fill" Width="124" Source="/projee;component/Images/Designbolts-Free-Multimedia-Film.ico" Opacity="1" />
+        <Label Content="Seans İşlemleri" FontFamily="Sitka Small" FontSize="15" Foreground="White" Height="39" Margin="448,228,457,297" Name="label2" Width="130" />
+        <Button Background="Red" Height="193" HorizontalAlignment="Left" Margin="428,74,0,0" Name="button2" Panel.ZIndex="-1" VerticalAlignment="Top" Width="167" />
+        <Image Height="115" HorizontalAlignment="Left" Margin="448,107,0,0" Name="image2" Opacity="1" Source="/projee;component/Images/Paomedia-Small-N-Flat-Clock.ico" Stretch="Fill" VerticalAlignment="Top" Width="124" />
+        <Label Content="Üye İşlemleri" FontFamily="Sitka Small" FontSize="15" Foreground="White" Height="39" Margin="767,228,138,297" Name="label3" Width="130" />
+        <Button Background="Red" Height="193" HorizontalAlignment="Left" Margin="747,74,0,0" Name="button3" Panel.ZIndex="-1" VerticalAlignment="Top" Width="167" />
+        <Image Height="115" HorizontalAlignment="Left" Margin="767,107,0,0" Name="image3" Opacity="1" Source="/projee;component/Images/Hopstarter-Sleek-Xp-Basic-Administrator.ico" Stretch="Fill" VerticalAlignment="Top" Width="124" />
+        <Label Content="Bilet İşlemleri" FontFamily="Sitka Small" FontSize="15" Foreground="White" Height="39" Margin="276,473,635,52" Name="label4" />
+        <Button Background="Red" Height="223" HorizontalAlignment="Left" Margin="256,309,0,0" Name="button4" Panel.ZIndex="-1" VerticalAlignment="Top" Width="167" />
+        <Image Height="115" HorizontalAlignment="Left" Margin="276,330,0,0" Name="image4" Opacity="1" Source="/projee;component/Images/icons8-new-ticket-80.png" Stretch="Fill" VerticalAlignment="Top" Width="124" />
+        <Label Content="   Yönetici İşlemleri" FontFamily="Sitka Small" FontSize="15" Foreground="White" Margin="590,483,278,52" Name="label5" />
+        <Button Background="Red" Height="222" HorizontalAlignment="Left" Margin="590,310,0,0" Name="button5" Panel.ZIndex="-1" VerticalAlignment="Top" Width="167" />
+        <Image Height="115" HorizontalAlignment="Left" Margin="610,330,0,0" Name="image5" Opacity="1" Source="/projee;component/Images/Aha-Soft-Free-Large-Boss-Admin.ico" Stretch="Fill" VerticalAlignment="Top" Width="124" />
+        <Label Content="Tarih" Height="48" HorizontalAlignment="Left" Margin="390,20,0,0" Name="label6" VerticalAlignment="Top" Width="469" Foreground="White" FontSize="25" />
+        <Button Content="Çıkış" Height="47" HorizontalAlignment="Left" Margin="906,505,0,0" Name="button6" VerticalAlignment="Top" Width="117" Background="Red" Click="button6_Click"></Button>
+        <Button Content="Button" Height="190" HorizontalAlignment="Left" Margin="60,74,0,0" Name="button7" VerticalAlignment="Top" Width="166" Panel.ZIndex="2" Opacity="0" Click="button7_Click" />
+        <Button Content="Button" Height="190" HorizontalAlignment="Left" Margin="748,74,0,0" Name="button8" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="166" Click="button8_Click" />
+        <Button Content="Button" Height="190" HorizontalAlignment="Left" Margin="429,74,0,0" Name="button9" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="166" Click="button9_Click" />
+        <Button Content="Button" Height="222" HorizontalAlignment="Left" Margin="257,310,0,0" Name="button10" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="166" Click="button10_Click" />
+        <Button Content="Button" Height="222" HorizontalAlignment="Left" Margin="590,310,0,0" Name="button11" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="166" Click="button11_Click" />
+    </Grid>
+</Window>

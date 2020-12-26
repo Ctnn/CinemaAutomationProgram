@@ -1,0 +1,42 @@
+﻿<Window x:Class="projee.kullanıcı_yakında"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="kullanıcı_yakında" Height="536" Width="1134" Loaded="Window_Loaded" Background="#FF383838" WindowStartupLocation="CenterScreen">
+    <Grid Height="492" Width="1109">
+        <Grid.Background>
+            <ImageBrush ImageSource="/projee;component/Images/c19abbb3cb.jpg" />
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="108*" />
+            <ColumnDefinition Width="638*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="251*" />
+            <RowDefinition Height="181*" />
+        </Grid.RowDefinitions>
+        <Menu Background="#FF383838" Grid.ColumnSpan="2" Height="6" HorizontalAlignment="Left" Margin="83,0,0,0" Name="menu1" VerticalAlignment="Top" Width="677" />
+        <Menu Background="#FF383838" Grid.RowSpan="2" Height="492" HorizontalAlignment="Left" Name="menu2" Panel.ZIndex="-1" VerticalAlignment="Top" Width="114" />
+        <Label Content="CtNN Sinemaları" FontFamily="Monotype Corsiva" FontSize="16" Foreground="White" Height="37" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" Width="121" />
+        <Button Background="Black" Click="button3_Click" Content="AnaSayfa" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="12,54,52,210" Name="button3" Width="97" />
+        <Button Background="Black" Click="button4_Click" Content="Vizyondakiler" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="12,82,52,182" Name="button4" Width="97" />
+        <Button Background="Black" Click="button5_Click" Content="Yakında" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="12,110,52,154" Name="button5" Width="97" />
+        <Button Background="Black" Click="button6_Click" Content="Salonlar" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="12,138,52,126" Name="button6" Width="97" />
+        <Image Grid.Column="1" Height="130" HorizontalAlignment="Left" Margin="203,141,0,0" Name="image1" Opacity="2" Source="/projee;component/Images/HO00003573_636881801515612453_shazam-6-guc.png" Stretch="Fill" VerticalAlignment="Top" Width="113" />
+        <Image Grid.Column="1" Height="132" HorizontalAlignment="Left" Margin="488,138,0,0" Name="image2" Source="/projee;component/Images/avengers_endgame_ver2_xlg.jpg" Stretch="Fill" VerticalAlignment="Top" Width="113" />
+        <Button Click="button8_Click" Content="Button" Grid.Column="1" Height="132" HorizontalAlignment="Left" Margin="203,143,0,0" Name="button8" Opacity="0" VerticalAlignment="Top" Width="113" />
+        <Button Click="button9_Click" Content="Button" Grid.Column="1" Height="132" HorizontalAlignment="Left" Margin="487,138,0,0" Name="button9" Opacity="0" VerticalAlignment="Top" Width="113" />
+        <Menu Background="Black" Margin="0,24,47,259" Name="menu4" />
+        <Button Background="Black" Content="Bilet Al" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="12,166,52,98" Name="button1" Width="97" Click="button1_Click" />
+        <Label Content="Çıkış Tarihi:" FontFamily="Stencil" FontSize="13" Foreground="Black" Height="25" Margin="0,236,846,0" Name="label3" Opacity="2" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="23.04.2019+" FontFamily="Stencil" FontSize="16" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="92,233,0,0" Name="label4" Opacity="2" VerticalAlignment="Top" Width="93" Grid.Column="1" />
+        <Label Content="Imdb=" FontFamily="Stencil" FontSize="13" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="30,184,0,0" Name="label10" VerticalAlignment="Top" Width="55" Grid.Column="1" />
+        <Label FontFamily="Stencil" FontSize="16" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="93,181,0,0" Name="label18" VerticalAlignment="Top" Width="94" Grid.Column="1" />
+        <Label Content="Imdb=" FontFamily="Stencil" FontSize="13" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="667,181,0,0" Name="label6" VerticalAlignment="Top" Width="118" Grid.Column="1" />
+        <Label FontFamily="Stencil" FontSize="16" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="723,178,0,0" Name="label7" VerticalAlignment="Top" Width="80" Grid.Column="1" />
+        <Label Content="Çıkış Tarihi:" FontFamily="Stencil" FontSize="13" Foreground="Black" Height="23" Margin="628,235,224,0" Name="label8" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="23.04.2019" FontFamily="Stencil" FontSize="16" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="723,233,0,0" Name="label9" VerticalAlignment="Top" Width="93" Grid.Column="1" />
+        <Label Content="Shazam! 6 Güç" FontFamily="Stencil" FontSize="18" Foreground="Black" Height="33" HorizontalAlignment="Left" Margin="178,30,0,0" Name="label2" VerticalAlignment="Top" Width="180" Grid.Column="1" Grid.Row="1" />
+        <Label Content="Avengers" FontFamily="Stencil" FontSize="16" Foreground="Black" Grid.Column="1" Height="44" HorizontalAlignment="Left" Margin="489,35,0,0" Name="label5" VerticalAlignment="Top" Width="169" Grid.Row="1" />
+        <Button Background="Black" Content="Biletlerim" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="12,195,52,69" Name="button7" Width="97" Click="button7_Click" />
+    </Grid>
+</Window>

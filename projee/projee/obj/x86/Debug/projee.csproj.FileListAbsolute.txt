@@ -1,0 +1,929 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\bin\Debug\projee.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\bin\Debug\projee.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\MainWindow.baml
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\MainWindow.g.cs
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\App.g.cs
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\projee.g.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\projee.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\projee.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\uyegirisi.baml
+c:\users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\vizyondakiler.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Yakında.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Yakında.g.cs
+C:\Users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\film1.baml
+C:\Users\ogrenci\documents\visual studio 2010\Projects\projee\projee\obj\x86\Debug\film1.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\projee.exe
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\projee.pdb
+C:\Users\Ctnkaya\Desktop\projee\projee\bin\Debug\projee.exe
+C:\Users\Ctnkaya\Desktop\projee\projee\bin\Debug\projee.pdb
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film1.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\MainWindow.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uyegirisi.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\vizyondakiler.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\Yakında.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film1.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\Yakında.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\App.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\projee.g.resources
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uyeol.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uyeol.g.cs
+G:\projee\projee\obj\x86\Debug\projee.exe
+G:\projee\projee\obj\x86\Debug\projee.pdb
+G:\projee\projee\bin\Debug\projee.exe
+G:\projee\projee\bin\Debug\projee.pdb
+G:\projee\projee\obj\x86\Debug\film1.baml
+G:\projee\projee\obj\x86\Debug\MainWindow.baml
+G:\projee\projee\obj\x86\Debug\uyegirisi.baml
+G:\projee\projee\obj\x86\Debug\uyeol.baml
+G:\projee\projee\obj\x86\Debug\vizyondakiler.baml
+G:\projee\projee\obj\x86\Debug\Yakında.baml
+G:\projee\projee\obj\x86\Debug\film1.g.cs
+G:\projee\projee\obj\x86\Debug\MainWindow.g.cs
+G:\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+G:\projee\projee\obj\x86\Debug\uyeol.g.cs
+G:\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+G:\projee\projee\obj\x86\Debug\Yakında.g.cs
+G:\projee\projee\obj\x86\Debug\App.g.cs
+G:\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+G:\projee\projee\obj\x86\Debug\projee.g.resources
+G:\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+G:\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uyeol.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uyeol.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+G:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+G:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+G:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+G:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+G:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+G:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\Salonlar.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\Salonlar.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uye_salonlar.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film2.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film2.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film3.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film3.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film4.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film4.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film5.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film5.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film6.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film6.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film7.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film7.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film8.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\film8.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\yakında_film1.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\yakında_film2.baml
+C:\Users\Ctnkaya\Desktop\projee\projee\obj\x86\Debug\yakında_film2.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+F:\22.03.2019\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+F:\22.03.2019\projee\projee\obj\x86\Debug\projee.exe
+F:\22.03.2019\projee\projee\obj\x86\Debug\projee.pdb
+F:\22.03.2019\projee\projee\obj\x86\Debug\film1.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\filmbilgi.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\MainWindow.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\Salonlar.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\uyegirisi.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\uyeol.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\uye_salonlar.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\vizyondakiler.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\Yakında.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\yakında_film1.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\film1.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\MainWindow.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\Salonlar.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\uyeol.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\Yakında.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\App.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+F:\22.03.2019\projee\projee\obj\x86\Debug\projee.g.resources
+F:\22.03.2019\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+F:\22.03.2019\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+F:\22.03.2019\projee\projee\bin\Debug\projee.exe
+F:\22.03.2019\projee\projee\bin\Debug\projee.pdb
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee.exe
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee.pdb
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\bin\Debug\projee.exe
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\bin\Debug\projee.pdb
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\film1.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\filmbilgi.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\MainWindow.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Salonlar.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uyegirisi.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uyeol.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_salonlar.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\vizyondakiler.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Yakında.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yakında_film1.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\film1.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Salonlar.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uyeol.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Yakında.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\App.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee.g.resources
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\filmbilgi.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Salonlar.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_salonlar.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yakında_film1.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\Salonlar.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+F:\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+F:\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+F:\projee\projee\obj\x86\Debug\projee.exe
+F:\projee\projee\obj\x86\Debug\projee.pdb
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\seans_islemleri.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+C:\Users\Ctnkaya\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\seans_islemleri.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\seans_islemleri.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+E:\22.03.2019\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+E:\22.03.2019\projee\projee\obj\x86\Debug\projee.exe
+E:\22.03.2019\projee\projee\obj\x86\Debug\projee.pdb
+E:\22.03.2019\projee\projee\bin\Debug\projee.exe
+E:\22.03.2019\projee\projee\bin\Debug\projee.pdb
+E:\22.03.2019\projee\projee\obj\x86\Debug\film1.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\filmbilgi.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\MainWindow.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\Salonlar.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\seans_islemleri.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\uyegirisi.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\uyeol.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\uye_salonlar.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\vizyondakiler.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\Yakında.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\yakında_film1.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+E:\22.03.2019\projee\projee\obj\x86\Debug\film1.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\MainWindow.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\Salonlar.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\uyeol.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\Yakında.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\App.g.cs
+E:\22.03.2019\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+E:\22.03.2019\projee\projee\obj\x86\Debug\projee.g.resources
+E:\22.03.2019\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+E:\22.03.2019\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+F:\22.03.2019\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\biletal.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\biletal.g.cs
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\biletal_devamı.baml
+C:\Users\ogrenci\Documents\Visual Studio 2010\Projects\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+F:\projee\projee\bin\Debug\projee.exe
+F:\projee\projee\bin\Debug\projee.pdb
+F:\projee\projee\obj\x86\Debug\biletal.baml
+F:\projee\projee\obj\x86\Debug\biletal_devamı.baml
+F:\projee\projee\obj\x86\Debug\film1.baml
+F:\projee\projee\obj\x86\Debug\filmbilgi.baml
+F:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+F:\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+F:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+F:\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+F:\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+F:\projee\projee\obj\x86\Debug\MainWindow.baml
+F:\projee\projee\obj\x86\Debug\Salonlar.baml
+F:\projee\projee\obj\x86\Debug\seans_islemleri.baml
+F:\projee\projee\obj\x86\Debug\uyegirisi.baml
+F:\projee\projee\obj\x86\Debug\uyeol.baml
+F:\projee\projee\obj\x86\Debug\uye_salonlar.baml
+F:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+F:\projee\projee\obj\x86\Debug\vizyondakiler.baml
+F:\projee\projee\obj\x86\Debug\Yakında.baml
+F:\projee\projee\obj\x86\Debug\yakında_film1.baml
+F:\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+F:\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+F:\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+F:\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+F:\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+F:\projee\projee\obj\x86\Debug\biletal.g.cs
+F:\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+F:\projee\projee\obj\x86\Debug\film1.g.cs
+F:\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+F:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+F:\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+F:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+F:\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+F:\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+F:\projee\projee\obj\x86\Debug\MainWindow.g.cs
+F:\projee\projee\obj\x86\Debug\Salonlar.g.cs
+F:\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+F:\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+F:\projee\projee\obj\x86\Debug\uyeol.g.cs
+F:\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+F:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+F:\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+F:\projee\projee\obj\x86\Debug\Yakında.g.cs
+F:\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+F:\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+F:\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+F:\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+F:\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+F:\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+F:\projee\projee\obj\x86\Debug\App.g.cs
+F:\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+F:\projee\projee\obj\x86\Debug\projee.g.resources
+F:\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+F:\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+F:\projee\projee\obj\x86\Debug\seans_duzenle.baml
+F:\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+F:\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+F:\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+F:\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+F:\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+E:\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+E:\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+E:\projee\projee\obj\x86\Debug\projee.exe
+E:\projee\projee\obj\x86\Debug\projee.pdb
+E:\projee\projee\bin\Debug\projee.exe
+E:\projee\projee\bin\Debug\projee.pdb
+E:\projee\projee\obj\x86\Debug\biletal.baml
+E:\projee\projee\obj\x86\Debug\biletal_devamı.baml
+E:\projee\projee\obj\x86\Debug\film1.baml
+E:\projee\projee\obj\x86\Debug\filmbilgi.baml
+E:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+E:\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+E:\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+E:\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+E:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+E:\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+E:\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+E:\projee\projee\obj\x86\Debug\MainWindow.baml
+E:\projee\projee\obj\x86\Debug\Salonlar.baml
+E:\projee\projee\obj\x86\Debug\seans_duzenle.baml
+E:\projee\projee\obj\x86\Debug\seans_islemleri.baml
+E:\projee\projee\obj\x86\Debug\uyegirisi.baml
+E:\projee\projee\obj\x86\Debug\uyeol.baml
+E:\projee\projee\obj\x86\Debug\uye_salonlar.baml
+E:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+E:\projee\projee\obj\x86\Debug\vizyondakiler.baml
+E:\projee\projee\obj\x86\Debug\Yakında.baml
+E:\projee\projee\obj\x86\Debug\yakında_film1.baml
+E:\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+E:\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+E:\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+E:\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+E:\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+E:\projee\projee\obj\x86\Debug\biletal.g.cs
+E:\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+E:\projee\projee\obj\x86\Debug\film1.g.cs
+E:\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+E:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+E:\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+E:\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+E:\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+E:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+E:\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+E:\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+E:\projee\projee\obj\x86\Debug\MainWindow.g.cs
+E:\projee\projee\obj\x86\Debug\Salonlar.g.cs
+E:\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+E:\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+E:\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+E:\projee\projee\obj\x86\Debug\uyeol.g.cs
+E:\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+E:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+E:\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+E:\projee\projee\obj\x86\Debug\Yakında.g.cs
+E:\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+E:\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+E:\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+E:\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+E:\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+E:\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+E:\projee\projee\obj\x86\Debug\App.g.cs
+E:\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+E:\projee\projee\obj\x86\Debug\projee.g.resources
+E:\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+E:\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+F:\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+F:\projee\projee\obj\x86\Debug\yonetici_islem.baml
+F:\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+F:\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\projee.exe
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\projee.pdb
+C:\Users\ogrenci\Desktop\projee\projee\bin\Debug\projee.exe
+C:\Users\ogrenci\Desktop\projee\projee\bin\Debug\projee.pdb
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\biletal.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\biletal_devamı.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\film1.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\filmbilgi.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\MainWindow.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\Salonlar.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\seans_duzenle.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\seans_islemleri.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uyegirisi.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uyeol.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uye_salonlar.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\vizyondakiler.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\Yakında.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yakında_film1.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yonetici_islem.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\biletal.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\film1.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\Salonlar.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uyeol.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\Yakında.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\App.g.cs
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\projee.g.resources
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.exe
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.pdb
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal_devamı.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\film1.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\filmbilgi.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\MainWindow.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\Salonlar.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_duzenle.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_islemleri.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyegirisi.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyeol.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_salonlar.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\vizyondakiler.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\Yakında.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yakında_film1.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yonetici_islem.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\film1.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\MainWindow.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\Salonlar.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyeol.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\Yakında.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\App.g.cs
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.g.resources
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+E:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+E:\19.04.2019 proje\projee\projee\bin\Debug\projee.exe
+E:\19.04.2019 proje\projee\projee\bin\Debug\projee.pdb
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.exe
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.pdb
+G:\19.04.2019 proje\projee\projee\bin\Debug\projee.exe
+G:\19.04.2019 proje\projee\projee\bin\Debug\projee.pdb
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal_devamı.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\film1.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\filmbilgi.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\MainWindow.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\Salonlar.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_duzenle.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_islemleri.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyegirisi.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyeol.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_salonlar.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\vizyondakiler.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\Yakında.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yakında_film1.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yonetici_islem.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\film1.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\MainWindow.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\Salonlar.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyeol.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\Yakında.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\App.g.cs
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.g.resources
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+G:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.exe
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.pdb
+F:\19.04.2019 proje\projee\projee\bin\Debug\projee.exe
+F:\19.04.2019 proje\projee\projee\bin\Debug\projee.pdb
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal_devamı.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\film1.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\filmbilgi.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\MainWindow.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\Salonlar.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_duzenle.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_islemleri.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyegirisi.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyeol.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_salonlar.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\vizyondakiler.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\Yakında.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yakında_film1.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yonetici_islem.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\film1.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\MainWindow.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\Salonlar.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uyeol.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\Yakında.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\App.g.cs
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.g.resources
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+F:\19.04.2019 proje\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+D:\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+D:\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+D:\projee\projee\obj\x86\Debug\projee.exe
+D:\projee\projee\obj\x86\Debug\projee.pdb
+D:\projee\projee\obj\x86\Debug\biletal.baml
+D:\projee\projee\obj\x86\Debug\biletal_devamı.baml
+D:\projee\projee\obj\x86\Debug\biletlerim.baml
+D:\projee\projee\obj\x86\Debug\film1.baml
+D:\projee\projee\obj\x86\Debug\filmbilgi.baml
+D:\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+D:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+D:\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+D:\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+D:\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+D:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+D:\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+D:\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+D:\projee\projee\obj\x86\Debug\MainWindow.baml
+D:\projee\projee\obj\x86\Debug\Salonlar.baml
+D:\projee\projee\obj\x86\Debug\seans_duzenle.baml
+D:\projee\projee\obj\x86\Debug\seans_islemleri.baml
+D:\projee\projee\obj\x86\Debug\uyegirisi.baml
+D:\projee\projee\obj\x86\Debug\uyeol.baml
+D:\projee\projee\obj\x86\Debug\uye_salonlar.baml
+D:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+D:\projee\projee\obj\x86\Debug\vizyondakiler.baml
+D:\projee\projee\obj\x86\Debug\Yakında.baml
+D:\projee\projee\obj\x86\Debug\yakında_film1.baml
+D:\projee\projee\obj\x86\Debug\yonetici_islem.baml
+D:\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+D:\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+D:\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+D:\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+D:\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+D:\projee\projee\obj\x86\Debug\biletal.g.cs
+D:\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+D:\projee\projee\obj\x86\Debug\biletlerim.g.cs
+D:\projee\projee\obj\x86\Debug\film1.g.cs
+D:\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+D:\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+D:\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+D:\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+D:\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+D:\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+D:\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+D:\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+D:\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+D:\projee\projee\obj\x86\Debug\MainWindow.g.cs
+D:\projee\projee\obj\x86\Debug\Salonlar.g.cs
+D:\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+D:\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+D:\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+D:\projee\projee\obj\x86\Debug\uyeol.g.cs
+D:\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+D:\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+D:\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+D:\projee\projee\obj\x86\Debug\Yakında.g.cs
+D:\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+D:\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+D:\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+D:\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+D:\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+D:\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+D:\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+D:\projee\projee\obj\x86\Debug\App.g.cs
+D:\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+D:\projee\projee\obj\x86\Debug\projee.g.resources
+D:\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+D:\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.Cache
+D:\projee\projee\bin\Debug\projee.exe
+D:\projee\projee\bin\Debug\projee.pdb
+D:\projee\projee\obj\x86\Debug\biletislem.baml
+D:\projee\projee\obj\x86\Debug\biletislem.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.exe
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.pdb
+E:\Yedekler\Ders\projee\projee\bin\Debug\projee.exe
+E:\Yedekler\Ders\projee\projee\bin\Debug\projee.pdb
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csprojAssemblyReference.cache
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal_devamı.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletislem.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletlerim.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\film1.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\filmbilgi.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\MainWindow.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\Salonlar.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_duzenle.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_islemleri.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyegirisi.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyeol.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_salonlar.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\vizyondakiler.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\Yakında.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yakında_film1.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yonetici_islem.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletislem.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletlerim.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\film1.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\MainWindow.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\Salonlar.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyeol.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\Yakında.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\App.g.cs
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.g.resources
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.cache
+E:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csproj.CoreCompileInputs.cache
+G:\Yedekler\Ders\projee\projee\bin\Debug\projee.exe
+G:\Yedekler\Ders\projee\projee\bin\Debug\projee.pdb
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csprojAssemblyReference.cache
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\Interop.WMPLib.dll
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csproj.ResolveComReference.cache
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal_devamı.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletislem.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletlerim.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\film1.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\filmbilgi.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\fragmanislemleri.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıanasayfa.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_duzenle.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_islemleri.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\MainWindow.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\Salonlar.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_duzenle.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_islemleri.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyegirisi.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyeol.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_salonlar.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_sifremiunuttum.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\vizyondakiler.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\Yakında.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yakında_film1.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yonetici_islem.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticifilmislem.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticigirisi.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_film_düzenle.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_paneli.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.baml
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletal_devamı.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletislem.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\biletlerim.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\film1.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\filmbilgi.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\fragmanislemleri.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıanasayfa.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcıfilmbilgisi.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_duzenle.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_islemleri.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_vizyondakiler.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\kullanıcı_yakında_film_goster.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\MainWindow.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\Salonlar.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_duzenle.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\seans_islemleri.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyegirisi.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uyeol.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_salonlar.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\uye_sifremiunuttum.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\vizyondakiler.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\Yakında.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yakında_film1.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yonetici_islem.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticifilmislem.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yöneticigirisi.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_film_düzenle.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_paneli.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\yönetici_yakındafilm_düzenle.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\App.g.cs
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee_MarkupCompile.cache
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.g.resources
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.Properties.Resources.resources
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csproj.GenerateResource.cache
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.csproj.CoreCompileInputs.cache
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.exe
+G:\Yedekler\Ders\projee\projee\obj\x86\Debug\projee.pdb

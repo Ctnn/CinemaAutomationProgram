@@ -1,0 +1,29 @@
+﻿<Window x:Class="projee.kullanıcıanasayfa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="kullanıcıanasayfa" Height="536" Width="1134" Background="Black" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Height="495" Width="1131">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="108*" />
+            <ColumnDefinition Width="638*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="251*" />
+            <RowDefinition Height="181*" />
+        </Grid.RowDefinitions>
+        <Menu Background="#FF383838" Grid.ColumnSpan="2" Height="7" HorizontalAlignment="Left" Margin="83,0,0,0" Name="menu1" VerticalAlignment="Top" Width="1031" />
+        <Menu Background="#FF383838" Grid.RowSpan="2" Height="495" HorizontalAlignment="Left" Name="menu2" Panel.ZIndex="-1" VerticalAlignment="Top" Width="114" />
+        <Image Grid.ColumnSpan="2" Grid.RowSpan="2" Height="526" HorizontalAlignment="Left" Margin="108,-16,0,0" Name="image1" Source="/projee;component/Images/maxresdefault.jpg" Stretch="Fill" VerticalAlignment="Top" Width="1035" />
+        <Label Content="CtNN Sinemaları" FontFamily="Monotype Corsiva" FontSize="16" Foreground="White" Height="29" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" Width="149" />
+        <Button Background="Black" Click="button3_Click" Content="AnaSayfa" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,39,59,227" Name="button3" Width="97" />
+        <Button Background="Black" Click="button4_Click" Content="Vizyondakiler" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,67,59,199" Name="button4" Width="97" />
+        <Button Background="Black" Click="button5_Click" Content="Yakında" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,95,59,171" Name="button5" Width="97" />
+        <Button Background="Black" Click="button6_Click" Content="Salonlar" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,123,59,143" Name="button6" Width="97" />
+        <Menu Background="Black" HorizontalAlignment="Right" Margin="0,23,44,262" Name="menu4" Width="121" />
+        <Image Grid.Column="1" Height="58" HorizontalAlignment="Left" Margin="620,4,0,0" Name="image2" Source="/projee;component/Images/1_Primary_logo_on_transparent_322x65.png" Stretch="Fill" VerticalAlignment="Top" Width="343" />
+        <Button Background="Black" Content="Bilet Al" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,151,59,115" Name="button9" Width="97" Click="button9_Click_1" />
+        <Label Content="HİTAP ŞEKLİ" FontFamily="Monotype Corsiva" FontSize="24" Foreground="White" Height="50" HorizontalAlignment="Left" Margin="120,67,0,0" Name="label2" VerticalAlignment="Top" Width="209" Grid.Column="1" />
+        <Button Background="Black" Content="Hesaptan Çıkış" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,173,59,12" Name="button1" Width="97" Grid.Row="1" Click="button1_Click" />
+        <Button Background="Black" Content="Biletlerim" FontFamily="Sitka Small" Foreground="White" Height="22" Margin="8,179,59,87" Name="button7" Width="97" Click="button7_Click_1" />
+    </Grid>
+</Window>

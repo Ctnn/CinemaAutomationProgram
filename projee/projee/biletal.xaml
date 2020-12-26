@@ -1,0 +1,17 @@
+﻿<Window x:Class="projee.biletal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="biletal" Height="575" Width="1340" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF202932">
+        <Label Content="Film Seçiniz" FontFamily="Stencil" FontSize="23" Foreground="White" Height="57" HorizontalAlignment="Right" Margin="0,22,1027,0" Name="label1" Opacity="2" VerticalAlignment="Top" Width="190" />
+        <ListBox Height="340" HorizontalAlignment="Left" Margin="84,105,0,0" Name="listBox2" VerticalAlignment="Top" Width="225" SelectionChanged="listBox2_SelectionChanged" />
+        <Label Content="Tarih Seçiniz" FontFamily="Stencil" FontSize="23" Foreground="White" Height="57" Margin="346,22,764,0" Name="label2" Opacity="2" VerticalAlignment="Top" />
+        <ListBox Height="340" HorizontalAlignment="Left" Margin="345,105,0,0" Name="listBox3" VerticalAlignment="Top" Width="225" SelectionChanged="listBox3_SelectionChanged" />
+        <Label Content="Seans Seçiniz" FontFamily="Stencil" FontSize="23" Foreground="White" Height="57" Margin="617,22,461,0" Name="label4" Opacity="2" VerticalAlignment="Top" />
+        <ListBox Height="340" HorizontalAlignment="Left" Margin="616,105,0,0" Name="listBox4" VerticalAlignment="Top" Width="225" SelectionChanged="listBox4_SelectionChanged" />
+        <Button Background="Black" Click="button1_Click" Content="İleri" FontFamily="Sitka Small" FontSize="18" Foreground="White" Height="60" Margin="995,229,185,0" Name="button1" VerticalAlignment="Top" />
+        <Label FontFamily="Sitka Small" FontSize="15" Foreground="White" Height="40" HorizontalAlignment="Left" Margin="84,460,0,0" Name="label6" VerticalAlignment="Top" Width="225" />
+        <Label FontFamily="Sitka Small" FontSize="15" Foreground="White" Height="40" HorizontalAlignment="Left" Margin="346,460,0,0" Name="label7" VerticalAlignment="Top" Width="225" />
+        <Label FontFamily="Sitka Small" FontSize="18" Foreground="White" Height="40" HorizontalAlignment="Left" Margin="617,460,0,0" Name="label8" VerticalAlignment="Top" Width="225" />
+    </Grid>
+</Window>

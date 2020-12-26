@@ -1,0 +1,18 @@
+﻿<Window x:Class="projee.kullanıcı_islemleri"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="kullanıcı_islemleri" Height="430" Width="808" Background="#FF202932" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded_1">
+    <Grid Background="#FF202932">
+        <GroupBox Foreground="White" Header="Kullanıcılar" Height="252" HorizontalAlignment="Left" Margin="42,92,0,0" Name="groupBox4" VerticalAlignment="Top" Width="680">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="288*" />
+                    <ColumnDefinition Width="380*" />
+                </Grid.ColumnDefinitions>
+                <ListBox Height="213" HorizontalAlignment="Left" Margin="6,10,0,0" Name="listBox1" SelectionChanged="listBox1_SelectionChanged_2" VerticalAlignment="Top" Width="652" Grid.ColumnSpan="2" />
+            </Grid>
+        </GroupBox>
+        <Button Height="56" HorizontalAlignment="Left" Margin="706,12,0,0" Name="button1" Opacity="0" Panel.ZIndex="2" VerticalAlignment="Top" Width="68" Click="button1_Click_1" />
+        <Image Height="58" HorizontalAlignment="Right" Margin="0,10,14,0" Name="image3" Opacity="1" Source="/projee;component/Images/Thesquid.ink-Free-Flat-Sample-Space-rocket.ico" Stretch="Fill" VerticalAlignment="Top" Width="66" />
+    </Grid>
+</Window>
